@@ -1,3 +1,27 @@
+# To-Do-App-in-React
+
+This is a simple To-Do Application in React. In this application, I have used React components, React forms, event handlers, Font awesome icons and animations. It is a very easy quick application to do.
+
+## Commands used to install Font awesome:
+
+1. `npm i --save @fortawesome/fontawesome-svg-core`
+
+2. `npm i --save @fortawesome/free-solid-svg-icons` 
+
+3. `npm i --save @fortawesome/react-fontawesome` 
+
+## Commands used to publish react files in github:
+
+1. `git remote set-url origin`  [https://github.com/MihaelaIancu/todo-project](https://github.com/MihaelaIancu/todo-project)
+
+2. `npm run build` 
+
+3. `npm run deploy` 
+
+## Published on:
+
+[https://MihaelaIancu.github.io/todo-project](https://MihaelaIancu.github.io/todo-project)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
