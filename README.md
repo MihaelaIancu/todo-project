@@ -20,7 +20,7 @@ This is a simple To-Do Application in React. In this application, I have used Re
 
 ## Published on:
 
-[https://github.com/MihaelaIancu/todo-project](https://github.com/MihaelaIancu/todo-project)
+[https://MihaelaIancu.github.io/todo-project](https://MihaelaIancu.github.io/todo-project)
 
 # Getting Started with Create React App
 
