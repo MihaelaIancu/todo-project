@@ -12,7 +12,7 @@ This is a simple To-Do Application in React. In this application, I have used Re
 
 ## Commands used to publish react files in github:
 
-1. `git remote set-url origin [https://github.com/MihaelaIancu/todo-project](https://github.com/MihaelaIancu/todo-project)` 
+1. `git remote set-url origin`  [https://github.com/MihaelaIancu/todo-project](https://github.com/MihaelaIancu/todo-project)
 
 2. `npm run build` 
 
