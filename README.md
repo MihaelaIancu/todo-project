@@ -2,6 +2,8 @@
 
 This is a simple To-Do Application in React. In this application, I have used React components, React forms, event handlers, Font awesome icons and animations. It is a very easy quick application to do.
 
+#### To see the final result, click here: [https://MihaelaIancu.github.io/todo-project](https://MihaelaIancu.github.io/todo-project)
+
 ## Commands used to install Font awesome:
 
 1. `npm i --save @fortawesome/fontawesome-svg-core`
@@ -17,10 +19,6 @@ This is a simple To-Do Application in React. In this application, I have used Re
 2. `npm run build` 
 
 3. `npm run deploy` 
-
-## Published on:
-
-[https://MihaelaIancu.github.io/todo-project](https://MihaelaIancu.github.io/todo-project)
 
 # Getting Started with Create React App
 
