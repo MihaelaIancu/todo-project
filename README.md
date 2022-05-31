@@ -1,6 +1,6 @@
 # To-Do-App-in-React
 
-This is a simple To-Do Application in React. In this application, I have used React components, React forms, event handlers, Fontawesome icons and animations. It is a very easy quick application to do.
+This is a simple To-Do Application in React. In this application, I have used React components, React forms, event handlers, Font awesome icons and animations. It is a very easy quick application to do.
 
 ## Commands used to install Font awesome:
 
